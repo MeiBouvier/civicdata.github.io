@@ -6,7 +6,7 @@ tags: [events]
 event_time: Oct 20, 1pm-3pm
 location: maker13 Jeffersonville, IN
 link: 'https://www.maker13.com'
-summary: Hacktoberfest OpenStreetMap 101 with Jeff McAdams for &#35;HackTheVille where we will learn how to add Points of Interest to OpenStreetMap from Digital Ocean's and CDA's own Jeff McAdams plus participate in Hacktoberfest at this installment of HackTheVille
+summary: Hacktoberfest OpenStreetMap 101 with Jeff McAdams for &#35;HackTheVille where we will learn how to add Points of Interest to OpenStreetMap from Louisville, it's Digital Ocean's{:target="_blank"} own Jeff McAdams plus participate in Hacktoberfest at this installment of HackTheVille
 image:
   feature:
 comments: true
